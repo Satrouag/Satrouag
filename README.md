@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Satyam Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer and AI ML Enthusiast from India</h3>
 
+- 🔭 I’m currently working on **yogaIndia**
+
+- 🌱 I’m currently learning **Tensorflow and Next js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Satrouag](https://github.com/Satrouag)
+
+- 💬 Ask me about **AI and ML technologies**
+
 - 📫 How to reach me **satyamofficial1509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/satrouag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satrouag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam agarwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agarwal-satyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwal-satyam" height="30" width="40" /></a>
 <a href="https://instagram.com/satrou_ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satrou_ag" height="30" width="40" /></a>
 </p>
 
